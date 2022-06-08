@@ -18,3 +18,6 @@
 
 # Execução
 <p>  </p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90197643/172715815-c0fe724a-b7a0-44a4-9be9-04f13374b94f.PNG" width="300px" />
+</div>         
