@@ -17,7 +17,13 @@
 <p> Arduino IDE </p>
 
 # Execução
-<p>  </p>
+<p>1° - Clonando o repositório, basta no Arduíno IDE, abrir o arquivo "01_bibliotecas.ino" dessa forma abrirá todos os arquivos. </p>
+<p> </p>
+<p> 2° - Agora basta fazer o Upload do arquivo na IDE do Arduíno. </p>
+<p> </p>
+<p>3° - Agora basta fazer o Upload do arquivo na IDE do Arduíno. </p>
+<p> </p>
+<p>4° - No "Serial Monitor", aparecerá esses dados: </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90197643/172715815-c0fe724a-b7a0-44a4-9be9-04f13374b94f.PNG" width="300px" />
 </div>         
