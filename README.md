@@ -5,7 +5,8 @@
 <p align="center">
  <a href= "#sobre">Sobre</a> .
  <a href= "#tecnologias">Tecnologias</a> .
- <a href= "#execução">Execução</a> 
+ <a href= "#execução">Execução</a> .
+ <a href= "#observações">Observações</a> 
 </p> 
 
 # Sobre
@@ -54,3 +55,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/90197643/172733243-b9aa6e9c-a1f6-45da-ac7c-bcb6d8454b54.PNG" width="300px" />
 </div> 
+
+# Observações
+<p> Esse projeto, só funciona caso o ESP32 e o dispositivo utilizado para acessar o endereço IP, estejam logados na mesma rede WIFI.</p>
