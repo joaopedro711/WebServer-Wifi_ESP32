@@ -23,10 +23,26 @@
 
 <p>3° - Agora basta fazer o Upload do arquivo na IDE do Arduíno. </p>
 
-<p>4° - Visualiza as redes Wifi's disponíveis. Aparecerá a rede "ESP32", na qual deverá ser logada pela senha: 123456789</p>
-
 <p>4° - No "Serial Monitor", aparecerá esses dados: </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172715815-c0fe724a-b7a0-44a4-9be9-04f13374b94f.PNG" width="300px" />
+<img src="" width="300px" />
+</div> 
+
+<p>5° - Visualiza as redes Wifi's disponíveis. Aparecerá a rede "ESP32", na qual deverá ser logada pela senha: 123456789</p>
+
+<p>5° - No navegador insira o "AP IP addres": 192.168.4.1 </p>
+
+<p>6° - Selecione a opção "Configure WiFi". Entre com a senha na rede WIFI de sua escolha. </p>
+
+<div align="center">
+<img src="" width="300px" />
 </div>         
+
+<p>7° - Logue seu dispositivo na mesma rede WIFI colocada anterirmente. </p>
+
+<p>8° - O serial Monitor mostrará "Conectado IP". Copie e cole esse "IP: 192.168.0.27" no seu navegador </p>
+
+<div align="center">
+<img src="" width="300px" />
+</div> 
